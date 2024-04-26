@@ -88,6 +88,7 @@ public class Test {
 			System.out.println("Do you want to continue?? Type y for yes and n for no....");
 			c = sc.next().charAt(0);
 		}
+		System.out.println("Thank you for using this application.");
 
 	}
 }
